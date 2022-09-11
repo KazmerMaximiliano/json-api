@@ -38,5 +38,25 @@
     },
     "image": "https://www.totalwine.com/media/sys_master/twmmedia/hd2/hfd/11348869382174.png",
     "id": 7
+  },
+  {
+    "price": "$10.99",
+    "name": "Dogfish Head 60-Minute IPA",
+    "rating": {
+      "average": 1.3770307904176358,
+      "reviews": 324
+    },
+    "image": "https://www.totalwine.com/media/sys_master/twmmedia/h17/hc9/10124015599646.png",
+    "id": 14
+  },
+  {
+    "price": "$2.29",
+    "name": "Cigar City Jai-Alai IPA",
+    "rating": {
+      "average": 3.779669618771213,
+      "reviews": 206
+    },
+    "image": "https://www.totalwine.com/media/sys_master/twmmedia/hdb/h25/11969380712478.png",
+    "id": 18
   }
 ]
