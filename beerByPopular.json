@@ -6,7 +6,7 @@
       "average": 3.9785961474594638,
       "reviews": 119
     },
-    "image": "https://www.myamericanmarket.com/26509/blue-moon-beer-bottle.jpg",
+    "image": "https://img2.freepng.es/20180608/lhf/kisspng-stout-guinness-beer-bottle-ale-irish-stout-5b1a62d69d4fa1.3785757215284558946444.jpg",
     "id": 3
   },
   {
@@ -18,5 +18,25 @@
     },
     "image": "https://www.totalwine.com/media/sys_master/twmmedia/he8/h67/11931543830558.png",
     "id": 2
-  }
+  },
+  {
+    "price": "$15.49",
+    "name": "Sierra Nevada Pale Ale",
+    "rating": {
+      "average": 3.141161723541611,
+      "reviews": 459
+    },
+    "image": "https://www.totalwine.com/media/sys_master/twmmedia/h0a/h17/11589987434526.png",
+    "id": 6
+  },
+  {
+    "price": "$15.99",
+    "name": "Lagunitas IPA",
+    "rating": {
+      "average": 1.7610665871324303,
+      "reviews": 358
+    },
+    "image": "https://www.totalwine.com/media/sys_master/twmmedia/hd2/hfd/11348869382174.png",
+    "id": 7
+  },
 ]
