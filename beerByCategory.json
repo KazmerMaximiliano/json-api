@@ -1,7 +1,7 @@
 {
   "stouts": [
     {
-      "price": "$16.99",
+      "price": 16.99,
       "name": "Guinness Super Extra Stout",
       "rating": {
         "average": 3.9785961474594638,
@@ -11,7 +11,7 @@
       "id": 3
     },
     {
-      "price": "$9.99",
+      "price": 9.99,
       "name": "Duck-Rabbit Rapid Duck Imperial Stout",
       "rating": {
         "average": 4.671830935305506,
@@ -21,7 +21,7 @@
       "id": 37
     },
     {
-      "price": "$10.99",
+      "price": 10.99,
       "name": "Left Hand Milk Stout",
       "rating": {
         "average": 1.4612630916570346,
@@ -31,7 +31,7 @@
       "id": 38
     },
     {
-      "price": "$18.99",
+      "price": 18.99,
       "name": "Southern Tier Warlock Imperial Pumpkin Stout",
       "rating": {
         "average": 4.836348372908959,
