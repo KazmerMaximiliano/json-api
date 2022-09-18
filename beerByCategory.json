@@ -46,7 +46,7 @@
   ],
   "ale": [
     {
-      "price": "$13.99",
+      "price": 13.99,
       "name": "Blue Moon Belgian White Belgian-Style Wheat Ale",
       "rating": {
         "average": 4.775260833383482,
@@ -56,7 +56,7 @@
       "id": 2
     },
     {
-      "price": "$12.99",
+      "price": 12.99,
       "name": "New Belgium Oakspire Bourbon Barrel Ale",
       "rating": {
         "average": 2.0996330805016186,
@@ -66,7 +66,7 @@
       "id": 12
     },
     {
-      "price": "$9.29",
+      "price": 9.29,
       "name": "Troegs Hopback Amber Ale",
       "rating": {
         "average": 4.594513716734594,
@@ -76,7 +76,7 @@
       "id": 66
     },
     {
-      "price": "$21.99",
+      "price": 21.99,
       "name": "Bell's Two Hearted Ale",
       "rating": {
         "average": 1.768500733899927,
@@ -90,7 +90,7 @@
   ],
   "ipa": [ 
     {
-    "price": "$15.99",
+    "price": 15.99,
     "name": "Lagunitas IPA",
     "rating": {
       "average": 1.7610665871324303,
@@ -100,7 +100,7 @@
     "id": 7
     },
     {
-      "price": "$15.99",
+      "price": 15.99,
       "name": "Sierra Nevada Hazy Little Thing IPA",
       "rating": {
         "average": 3.9890785544340925,
@@ -110,7 +110,7 @@
       "id": 10
     },
     {
-      "price": "$10.99",
+      "price": 10.99,
       "name": "Dogfish Head 60-Minute IPA",
       "rating": {
         "average": 1.3770307904176358,
@@ -120,7 +120,7 @@
       "id": 14
     },
     {
-      "price": "$2.29",
+      "price": 2.29,
       "name": "Cigar City Jai-Alai IPA",
       "rating": {
         "average": 3.779669618771213,
